@@ -7,6 +7,7 @@
 <img target="_blank" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width=170>
 
 ### Getting Started
+
 To get started with this repository, you will need to clone it to your local machine. Once you have cloned the repository, you can open the Jupyter notebooks in a web browser. The Jupyter notebooks contain all of the code and data that you need to run the projects.
 ### Installation
 To install the requirements, run the following command in a terminal:
