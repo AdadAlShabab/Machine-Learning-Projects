@@ -12,7 +12,6 @@ To get started with this repository, you will need to clone it to your local mac
 To install the requirements, run the following command in a terminal:
 
 pip install -r requirements.txt
-
 ### Contributing
 I welcome contributions to this repository. If you would like to contribute, please fork the repository and make your changes. Once you have made your changes, please submit a pull request. I will review your pull request and merge it into the master branch if it meets my standards.
 
