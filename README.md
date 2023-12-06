@@ -1,5 +1,6 @@
 # Machine-Learning-Projects
 ### Technologies Used  
+
 ![](https://forthebadge.com/images/badges/made-with-python.svg) </br>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
