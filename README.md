@@ -1,5 +1,4 @@
 # Machine-Learning-Projects
-
 ### Technologies Used  
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg) </br>
